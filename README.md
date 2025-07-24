@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aryan Kumar<br>I’m a passionate Frontend Developer and Tech Enthusiast with a strong command of:<br><br>⚛ React.js, 🎨 Tailwind CSS, and 🧠 JavaScript<br><br>🔙 Backend basics: Node.js and Express.js<br><br>💻 Programming Languages: Java, Python, and JavaScript<br><br>🚀 What I Build:<br>💡 Innovative websites with beautiful UI/UX<br><br>📚 Learning platforms like EduEcho (Voice-First Learning)<br><br>📝 Creative projects like Kavyapath (Digital Poetry Platform)<br><br>👨‍💼 Web tools like Employee Management Systems<br><br>🌐 and a portfolio<br><br>🎯 My Vision:<br>To build clean, impactful, and future-ready tech products that combine creativity, functionality, and scalability. I believe in blending design with logic to create a smooth user experience.
-
+👋 Hi, I’m Aryan Kumar<br>I’m a passionate Full Stack Developer and Tech Enthusiast. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-kumar-735266307/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.nda.2163@gmail.com) 
